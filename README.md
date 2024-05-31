@@ -1,5 +1,5 @@
 # Local_RAG_TTRPG_Assistant
-Feel free to use this code if you're looking to use a local LLM and RAG pipeline to answer questions directly from user defined source materials while checking document relevance and controlling for hallucination.
+Feel free to use this code if you're looking to use a local LLM and RAG pipeline to answer questions directly from user defined source materials while checking document relevance and controlling for hallucination. Initially built for use with the Creative Commoins Licensed "Basic Fantasy RPG" which can be downloaded in pdf format for free @ https://www.basicfantasy.org/
 -----------------------------------------------------------
 Overview
 
